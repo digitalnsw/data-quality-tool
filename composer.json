@@ -1,0 +1,14 @@
+{
+  "name": "drupal/data_quality_tool",
+  "type": "drupal-module",
+  "description": "Port of NSW Data Quality Tool",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/data_quality_tool",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/data_quality_tool",
+    "source": "http://cgit.drupalcode.org/data_quality_tool"
+  },
+  "require": { }
+}
